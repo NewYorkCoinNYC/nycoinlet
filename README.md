@@ -39,7 +39,7 @@ node app.js
 
 ```
 
-And, you should be able to browse to the wallet on localhost:3000
+You should be able to browse to the wallet on http://localhost:3000
 
 This wallet currently uses sendgrid for email, and redis for storing sessions, but it's easy to change this.
 
